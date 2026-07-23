@@ -19,7 +19,7 @@ These projects help me practice programming fundamentals such as:
 | [Calculator](./Calculator)                     | A simple calculator that performs basic arithmetic operations.    |
 | [Number Guessing Game](./Number-Guessing-Game) | A game where the user tries to guess a randomly generated number. |
 | [Rock Paper Scissors](./Rock-Paper-Scissors)   | A console-based Rock Paper Scissors game.                         |
-| [ATM Simulator](./ATM-Simulator)               | A basic ATM simulation program.                                   |
+| [ATM Simulator](./Banking)                     | A basic ATM simulation program.                                   |
 
 ## Technologies Used
 
